@@ -14,9 +14,11 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(images/pic5.png);
+    background-image: url(images/pic8.jpg);
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 .container{
     padding: 10px 10%;
@@ -27,6 +29,7 @@ nav{
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
+    
 }
 
 .logo{
