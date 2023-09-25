@@ -54,7 +54,7 @@ nav ul li a::after{
   content: '';
   width: 0;
   height: 3px;
-  background: hsl(135, 100%, 50%);
+  background: hsla(128, 100%, 50%, 0.945), 0.945;
   position: absolute;
   left: 0;
   bottom: -6px;
